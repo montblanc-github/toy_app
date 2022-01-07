@@ -1,24 +1,19 @@
-# README
+# Railsチュートリアル（第4版）
+Railsチュートリアル（2章）学習の記録です。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## イメージ
 
-Things you may want to cover:
+**↓ toy_appのユーザー一覧画像**<br>
+※表示されている内容は、実在しないユーザーです。
+!["ユーザー一覧画面"](https://user-images.githubusercontent.com/86041660/148532668-ee96299c-eec4-4fe9-ba77-3dff3141a46e.png)
 
-* Ruby version
+**↓ toy_appの投稿一覧画像**<br>
+※表示されている内容は、実在しない投稿です。
+!["投稿一覧画面"](https://user-images.githubusercontent.com/86041660/148532664-945ca47b-f056-40ba-9ade-d6c2e602c96f.png)
 
-* System dependencies
+## 使用ツール
+Cloud9
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用技術
+- Ruby
+- Ruby on Rails
